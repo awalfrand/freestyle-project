@@ -17,7 +17,7 @@ The user would have to put in the name of the drug that they are looking to get 
 
 If a user is comparing two drugs, they would need to put in both names at the same time to receive a comparison.
 
-Lastly (depending on the data from the API), the user will need to enter their zip code to find a doctor close to them that specializes in the issue the drugs are trying to treat. 
+Lastly, the user will need to enter their zip code to find a doctor close to them the,. 
 
 ###Information Outputs
 
@@ -26,7 +26,7 @@ What it’s usually meant to treat
 How long it has been on the market
 Side effects
 
-In addition, once a user enters their zip code to find a doctor, the app should be able to pull up the name and contact information of a doctor that specializes in the drug they just looked at. Depending on the information the API has, I’d like to include some kind of a rating system for the doctors, if available. 
+In addition, once a user enters their zip code to find a doctor, the app should be able to pull up the name and contact information of doctors in their area. Depending on the information the API has, I’d like to include some kind of a rating system for the doctors, if available. 
 
 ###APIs and Web Service Requirements
 
@@ -38,7 +38,7 @@ This app would be run from the command line.
 
 ### Python Package Requirements
 
-None identified as of yet
+I'll need the requests package.
 
 ### Hardware Requirements
 
